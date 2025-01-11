@@ -1,0 +1,11 @@
+Participant_ID,Age,Gender,Health_Status,Group
+P001,45,Female,Healthy,A
+P002,32,Male,Diabetic,A
+P003,29,Female,Healthy,B
+P004,54,Male,Hypertensive,A
+P005,38,Female,Healthy,A
+P006,40,Male,Diabetic,A
+P007,27,Female,Healthy,A
+P008,50,Male,Hypertensive,A
+P009,36,Female,Healthy,B
+P010,43,Male,Diabetic,A
